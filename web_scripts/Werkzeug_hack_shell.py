@@ -10,11 +10,6 @@
 ### a shell on the machine using a forever while loop.
 ###
 
-##### To-Do #####
-##### 1. Add sanity check for werkzeug footer
-##### 2. Add ability to import python rshell
-##### 3. Verify URL supplied is URL
-
 import sys
 import requests
 import re

@@ -7,7 +7,7 @@
 ### to pull in cmd functions and pass them to the Web App
 ###
 ### This is a very hacky WebApp hack as it simply simulates
-### a shell on the machine using a forever while loop.
+### a shell on the machine using a infinite while loop.
 ###
 
 import sys
